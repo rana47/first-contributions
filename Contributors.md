@@ -2,6 +2,7 @@
 -[shanto] (https://github.com/shanto)
 
 - [Ihoey](https://github.com/ihoey)
+- [rana47](https://github.com/rana47)
 - julio-garcia-fc
 - [Ravi Jain] (https://github.com/engrravijain)
 - [Aditya Gupta](https://github.com/6aditya8)
